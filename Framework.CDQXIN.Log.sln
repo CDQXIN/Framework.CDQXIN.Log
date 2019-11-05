@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.Log", "Framework.CDQXIN.Log\Framework.CDQXIN.Log.csproj", "{9EEC2DD1-FE0D-4209-8D20-2E76F73A6FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.LogTest", "Framework.CDQXIN.LogTest\Framework.CDQXIN.LogTest.csproj", "{4A518F94-208D-4DAA-AB71-503DAB3B5E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEC2DD1-FE0D-4209-8D20-2E76F73A6FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEC2DD1-FE0D-4209-8D20-2E76F73A6FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEC2DD1-FE0D-4209-8D20-2E76F73A6FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEC2DD1-FE0D-4209-8D20-2E76F73A6FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A518F94-208D-4DAA-AB71-503DAB3B5E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A518F94-208D-4DAA-AB71-503DAB3B5E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A518F94-208D-4DAA-AB71-503DAB3B5E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A518F94-208D-4DAA-AB71-503DAB3B5E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359447CD-AB8C-432A-9687-C104495B308B}
+	EndGlobalSection
+EndGlobal
